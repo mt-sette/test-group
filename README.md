@@ -1,3 +1,3 @@
 # test-group
 
-adiing a new line in remote
+Adding a new line in remote
