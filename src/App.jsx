@@ -8,10 +8,10 @@ function App() {
     return (
         <div className="App">
             <div>
-                <nav>
-                    <li>Home</li>
-                </nav>
                 <header>
+                <nav>
+                  <ul><li>Home</li></ul>
+                </nav>
                     <h2>A new feature to be merged</h2>
                 </header>
                 <a href="https://vitejs.dev" target="_blank">
